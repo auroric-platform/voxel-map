@@ -1,5 +1,5 @@
 # Voxel Map
-This repository allows you to obtain updates from our curated list of mods that enhance client-side performance. We recommend all users to install this set of mods to allow a smoother experience across all our Aurora's Minecraft services.
+The archival version of a pre-rendered world map using the VoxelMap mod.
 
 ## 🔧 Installation
 ### Windows
