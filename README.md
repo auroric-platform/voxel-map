@@ -24,4 +24,4 @@ Place the unziped folder under `~/Library/Application Support/minecraft/voxelmap
 You can find the downloads for each version with their release notes in the [releases page](https://github.com/auroric-platform/voxel-map/releases).
 
 ## 🗓 Update
-This reporistory is for archieval propose only, no planned update should be expected.
+This repository is for archival propose only, no planned update should be expected.
